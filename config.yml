@@ -27,6 +27,9 @@ content:
   categories:
     - name: 常用推荐
       sites:
+        - name: 百度
+          description: 百度一下
+          url: https://www.baidu.com/
         - name: Dribbble
           description: 全球UI设计师作品分享平台。
           url: https://dribbble.com/
