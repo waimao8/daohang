@@ -1,5 +1,5 @@
 # title of website
-title: daohang
+title: 精灵猫的导航
 
 # description of website
 description: waimao8's navigation site
@@ -8,7 +8,7 @@ description: waimao8's navigation site
 favicon: "https://github.com/waimao8.png?size=40"
 
 # your website url
-url: https://waimao8.github.io/daohang/
+url: https://github.com/waimao8
 
 # github profile url
 github: "https://github.com/waimao8"
@@ -26,7 +26,7 @@ google_analytics: "G-EXE1PJ8CR2"
 webstack:
   search:
     enabled: true
-    default: google
+    default: baidu
     # 可选的搜索引擎
     engines:
     
