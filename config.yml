@@ -63,9 +63,9 @@ content:
         - name: notion
           description: 最好用的笔记
           url: https://www.notion.so/
-        - name: 花瓣
-          description: 收集灵感,保存有用的素材
-          url: http://huaban.com/
+        - name: notion搭建的博客
+          description: 主题nobelium
+          url: https://ch168.ga/
         - name: 优设
           description: 设计师交流学习平台
           url: http://www.uisdc.com/
