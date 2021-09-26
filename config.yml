@@ -48,21 +48,21 @@ content:
         - name: 百度
           description: 百度一下就找到了
           url: https://www.baidu.com/
-        - name: Dribbble
-          description: 全球UI设计师作品分享平台。
-          url: https://dribbble.com/
-        - name: Behance
-          description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
-          url: https://behance.net/
-        - name: UI中国
-          description: 图形交互与界面设计交流、作品展示、学习平台。
-          url: http://www.ui.cn/
-        - name: 站酷
-          description: 中国人气设计师互动平台
-          url: http://www.zcool.com.cn/
-        - name: Pinterest
-          description: 全球美图收藏采集站
-          url: https://www.pinterest.com/
+        - name: 百度翻译
+          description: 百度翻译不错。
+          url: https://fanyi.baidu.com/
+        - name: github
+          description: github代码托管
+          url: https://github.com/
+        - name: vercel
+          description: vercel加速。
+          url: https://vercel.com/
+        - name: cloudflare
+          description: 最好用的域名解析
+          url: https://www.cloudflare.com/
+        - name: notion
+          description: 最好用的笔记
+          url: https://www.notion.so/
         - name: 花瓣
           description: 收集灵感,保存有用的素材
           url: http://huaban.com/
